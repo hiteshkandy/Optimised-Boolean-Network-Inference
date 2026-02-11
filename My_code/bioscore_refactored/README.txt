@@ -1,7 +1,7 @@
 BioScore refactor scaffold
 
 Usage:
-  1) Place this folder in the same working directory where analyse_database13.py and canalizing_function_toolbox_v16.py are importable.
+  1) Place this folder in the same working directory where analyse_database13.py and canalizing_function_toolbox_v16.py are importable as well as the model files.
   2) Run:
        python run_pipeline.py
   3) Outputs:
